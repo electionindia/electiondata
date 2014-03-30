@@ -1,5 +1,20 @@
 {
   "model": [
-
+    {
+      "name": "M.SARAVANAN",
+      "party": "Independent",
+      "state": "Tamil Nadu",
+      "constituency": "Sivaganga",
+      "data": {
+      }
+    },
+    {
+      "name": "K.KALAIMANI",
+      "party": "Makkal Manadu Katchi",
+      "state": "Tamil Nadu",
+      "constituency": "Sivaganga",
+      "data": {
+      }
+    }
   ]
 }

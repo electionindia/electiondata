@@ -1,14 +1,6 @@
 {
   "model": [
     {
-      "name": "AYARE RAJENDRA LAHU",
-      "party": "Bahujan Samaj Party",
-      "state": "Maharashtra",
-      "constituency": "Ratnagiri - sindhudurg",
-      "data": {
-      }
-    },
-    {
       "name": "NILESH NARAYAN RANE",
       "party": "Indian National Congress",
       "state": "Maharashtra",
@@ -27,14 +19,6 @@
     {
       "name": "ABHIJIT SHRIRAM HEGSHETYE",
       "party": "Aam Aadmi Party",
-      "state": "Maharashtra",
-      "constituency": "Ratnagiri - sindhudurg",
-      "data": {
-      }
-    },
-    {
-      "name": "ADV.DIPAK DATTARAM NEVGI",
-      "party": "Socialist Party (India)",
       "state": "Maharashtra",
       "constituency": "Ratnagiri - sindhudurg",
       "data": {
@@ -75,6 +59,22 @@
     {
       "name": "SUNIL ALIAS YASHWANT VASANT PEDNEKAR",
       "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Ratnagiri - sindhudurg",
+      "data": {
+      }
+    },
+    {
+      "name": "ADV DIPAK DATTARAM NEVGI",
+      "party": "Socialist Party (India)",
+      "state": "Maharashtra",
+      "constituency": "Ratnagiri - sindhudurg",
+      "data": {
+      }
+    },
+    {
+      "name": "AYARE RAJENDRA LAHU",
+      "party": "Bahujan Samaj Party",
       "state": "Maharashtra",
       "constituency": "Ratnagiri - sindhudurg",
       "data": {

@@ -81,7 +81,15 @@
       }
     },
     {
-      "name": "D ESWARA",
+      "name": "D ESWAR THOREMAVU",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Mysore",
+      "data": {
+      }
+    },
+    {
+      "name": "BANNUR KUMAR",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Mysore",
@@ -90,14 +98,6 @@
     },
     {
       "name": "PRAVEEN M S",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mysore",
-      "data": {
-      }
-    },
-    {
-      "name": "B S KUMARSWAMY",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Mysore",

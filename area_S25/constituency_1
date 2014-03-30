@@ -64,29 +64,29 @@ Note: Downloaded file is in ZIP format.</td>
 	<tr align="center" bgcolor="Chocolate">
 		<td><b>SL_NO.</b></td><td><b>CANDIDATE NAME</b></td><td><b>PARTY NAME</b></td>
 	</tr><tr align="left">
-		<td>1</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl02$ctl00','')">NRIPENDRA NARAYAN SINGHA KARJEE</a></td><td>SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)</td>
+		<td>1</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl02$ctl00','')">KESHAB CHANDRA RAY</a></td><td>Indian National Congress</td>
 	</tr><tr align="left">
-		<td>3</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl03$ctl00','')">DIPAK KUMAR ROY</a></td><td>All India Forward Bloc</td>
+		<td>2</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl03$ctl00','')">GIRINDRA NATH BARMAN</a></td><td>Bahujan Samaj Party</td>
 	</tr><tr align="left">
-		<td>6</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl04$ctl00','')">HEM CHANDRA BARMAN</a></td><td>Bharatiya Janata Party</td>
+		<td>3</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl04$ctl00','')">DIPAK KUMAR ROY</a></td><td>All India Forward Bloc</td>
 	</tr><tr align="left">
-		<td>10</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl05$ctl00','')">RENUKA SINHA</a></td><td>All India Trinamool Congress</td>
+		<td>4</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl05$ctl00','')">RENUKA SINHA</a></td><td>All India Trinamool Congress</td>
 	</tr><tr align="left">
-		<td>12</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl06$ctl00','')">BANGSHI BADAN BARMAN</a></td><td>Independent</td>
+		<td>5</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl06$ctl00','')">HEM CHANDRA BARMAN</a></td><td>Bharatiya Janata Party</td>
 	</tr><tr align="left">
-		<td>13</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl07$ctl00','')">KESHAB CHANDRA RAY</a></td><td>Indian National Congress</td>
+		<td>6</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl07$ctl00','')">KAMAL KRISHNA BAIRAGI</a></td><td>Rashtriya Janadhikar Suraksha Party</td>
 	</tr><tr align="left">
-		<td>17</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl08$ctl00','')">HITENDRA DAS</a></td><td>Independent</td>
+		<td>7</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl08$ctl00','')">DALENDRA NATH RAY</a></td><td>Amra Bangalee</td>
 	</tr><tr align="left">
-		<td>19</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl09$ctl00','')">PIJUSH BARMAN</a></td><td>Welfare Party Of India</td>
+		<td>8</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl09$ctl00','')">NRIPEN KARJEE</a></td><td>SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)</td>
 	</tr><tr align="left">
-		<td>21</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl10$ctl00','')">HAREKRISHNA SARKAR</a></td><td>Republican Party of India (A)</td>
+		<td>9</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl10$ctl00','')">PIJUSH BARMAN</a></td><td>Welfare Party Of India</td>
 	</tr><tr align="left">
-		<td>24</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl11$ctl00','')">KAMAL KRISHNA BAIRAGI</a></td><td>Rashtriya Janadhikar Suraksha Party</td>
+		<td>10</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl11$ctl00','')">HAREKRISHNA SARKAR</a></td><td>Republican Party of India (A)</td>
 	</tr><tr align="left">
-		<td>25</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl12$ctl00','')">DALENDRA NATH RAY</a></td><td>Amra Bangalee</td>
+		<td>11</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl12$ctl00','')">BANGSHI BADAN BARMAN</a></td><td>Independent</td>
 	</tr><tr align="left">
-		<td>27</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl13$ctl00','')">GIRINDRA NATH BARMAN</a></td><td>Bahujan Samaj Party</td>
+		<td>12</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl13$ctl00','')">HITENDRA DAS</a></td><td>Independent</td>
 	</tr>
 </table>
 					</P>

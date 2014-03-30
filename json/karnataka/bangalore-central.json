@@ -1,48 +1,16 @@
 {
   "model": [
     {
+      "name": "NANDINI ALVA",
+      "party": "Janata Dal  (Secular)",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
       "name": "P.C. MOHAN",
       "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "ZAHEEDA  SHEREEN",
-      "party": "SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "BUDAYYA PUJERI",
-      "party": "Karunaadu Party",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "RIZWAN ARSHAD",
-      "party": "Indian National Congress",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "SEETHARAMAN.E",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "SYED ASIF BUKHAARI",
-      "party": "Independent",
       "state": "Karnataka",
       "constituency": "Bangalore central",
       "data": {
@@ -57,7 +25,31 @@
       }
     },
     {
-      "name": "V. BALA  KRISHNAN",
+      "name": "RIZWAN ARSHAD",
+      "party": "Indian National Congress",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "ISMAIL KHAN SAIF ALI",
+      "party": "All India Trinamool Congress",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "ZAHEEDA  SHEREEN",
+      "party": "SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "V. BALAKRISHNAN",
       "party": "Aam Aadmi Party",
       "state": "Karnataka",
       "constituency": "Bangalore central",
@@ -65,23 +57,31 @@
       }
     },
     {
-      "name": "DR. MEERLAYAQ HUSSAIN",
-      "party": "Independent",
+      "name": "BUDAYYA .B. PUJERI",
+      "party": "Karunaadu Party",
       "state": "Karnataka",
       "constituency": "Bangalore central",
       "data": {
       }
     },
     {
-      "name": "PRASHANTH.S.M",
-      "party": "Independent",
+      "name": "H.L. MANJUNATHA",
+      "party": "Kannada Chalavali Vatal Paksha",
       "state": "Karnataka",
       "constituency": "Bangalore central",
       "data": {
       }
     },
     {
-      "name": "SHAFI AHMED",
+      "name": "KADUGUDI SONNAPPA",
+      "party": "Republican Party of India (A)",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "AMBROSE D'MELLO",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Bangalore central",
@@ -97,63 +97,7 @@
       }
     },
     {
-      "name": "MANJUNATHA.H.L",
-      "party": "Kannada Chalavali Vatal Paksha",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "M.SONNAPPA",
-      "party": "Republican Party of India (A)",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "K.MURTHY",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "B.V.VENKATE SHAPPA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "E.SALAM",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "NANDINI ALVA",
-      "party": "Janata Dal  (Secular)",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "G. NARAYANA SWAMY",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "C.B.K. RAMA",
+      "name": "G. NARAYANASWAMY (KAPALI)",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Bangalore central",
@@ -169,7 +113,79 @@
       }
     },
     {
+      "name": "PRASHANTH.S.M",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. MEER LAYAQ HUSSAIN",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "K.MURTHY",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
       "name": "MODI SAIFULLA",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "BHOVI RAMA C.B.K",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "RAMANUJ SINGH",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "B.V.VENKATESHAPPA",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "SHAFI AHMED",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "E.SALAM",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Bangalore central",
+      "data": {
+      }
+    },
+    {
+      "name": "SEETHA RAMAN.E",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Bangalore central",
@@ -185,23 +201,7 @@
       }
     },
     {
-      "name": "ISMAIL KHAN SAIF ALI",
-      "party": "All India Trinamool Congress",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "RAMANUJ SINGH",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Bangalore central",
-      "data": {
-      }
-    },
-    {
-      "name": "AMBROSE D'MELLO",
+      "name": "SYED ASIF BUKHAARI",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Bangalore central",

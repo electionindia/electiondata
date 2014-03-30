@@ -1,6 +1,14 @@
 {
   "model": [
     {
+      "name": "PRATAP CHANDRA SARANGI",
+      "party": "Bharatiya Janata Party",
+      "state": "Orissa",
+      "constituency": "Balasore",
+      "data": {
+      }
+    },
+    {
       "name": "PRASANTA KUMAR MISHRA",
       "party": "Communist Party of India",
       "state": "Orissa",
@@ -9,16 +17,8 @@
       }
     },
     {
-      "name": "MAMATA KUNDU",
-      "party": "Aam Aadmi Party",
-      "state": "Orissa",
-      "constituency": "Balasore",
-      "data": {
-      }
-    },
-    {
-      "name": "SAROJ KUMAR PANDA",
-      "party": "Independent",
+      "name": "BICHITRA NANDA DAS",
+      "party": "Bahujan Samaj Party",
       "state": "Orissa",
       "constituency": "Balasore",
       "data": {
@@ -41,24 +41,24 @@
       }
     },
     {
-      "name": "BICHITRA NANDA DAS",
-      "party": "Bahujan Samaj Party",
-      "state": "Orissa",
-      "constituency": "Balasore",
-      "data": {
-      }
-    },
-    {
-      "name": "PRATAP CHANDRA SARANGI",
-      "party": "Bharatiya Janata Party",
-      "state": "Orissa",
-      "constituency": "Balasore",
-      "data": {
-      }
-    },
-    {
       "name": "KARTIKESWAR PATRA",
       "party": "All India Trinamool Congress",
+      "state": "Orissa",
+      "constituency": "Balasore",
+      "data": {
+      }
+    },
+    {
+      "name": "MAMATA KUNDU",
+      "party": "Aam Aadmi Party",
+      "state": "Orissa",
+      "constituency": "Balasore",
+      "data": {
+      }
+    },
+    {
+      "name": "JAGANNATH DAS",
+      "party": "Independent",
       "state": "Orissa",
       "constituency": "Balasore",
       "data": {
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "JAGANNATH DAS",
+      "name": "SAROJ KUMAR PANDA",
       "party": "Independent",
       "state": "Orissa",
       "constituency": "Balasore",

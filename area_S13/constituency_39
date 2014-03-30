@@ -19,7 +19,7 @@
 </head>
 <body style="background-color:#C7DDF7" >
     <form name="aspnetForm" method="post" action="CANDIDATEAFFIDAVIT.aspx?YEARID=May-2014+(+GEN+)&amp;AC_No=39&amp;st_code=S13&amp;constType=PC" id="aspnetForm" style="margin-top:-15px;">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2NTMxNTU2Mg9kFgJmD2QWAgIDD2QWAgIDD2QWCAIBDw8WAh4EVGV4dAUbU1RBVEUgTkFNRTogUzEzLU1haGFyYXNodHJhZGQCAw8PFgIfAAUQUEMgTkFNRTogMzktQmVlZGRkAgkPDxYCHwAFEE5vIFJlY29yZCBGb3VuZC5kZAINDw8WAh8AZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBSljdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGNoa3JlamVjdGVkQ2FuZAUnY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRDaGtDb3VudGVyQWZmkJhGgw/yIHu+n9ONZD9PRnasvTQ=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2NTMxNTU2Mg9kFgJmD2QWAgIDD2QWAgIDD2QWCAIBDw8WAh4EVGV4dAUbU1RBVEUgTkFNRTogUzEzLU1haGFyYXNodHJhZGQCAw8PFgIfAAUQUEMgTkFNRTogMzktQmVlZGRkAgkPDxYCHwBlZGQCDQ8PFgIfAAUwQ2xpY2sgb24gQ2FuZGlkYXRlIE5hbWUgdG8gZ2V0IGhpcy9oZXIgYWZmaWRhdml0ZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFKWN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY2hrcmVqZWN0ZWRDYW5kBSdjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJENoa0NvdW50ZXJBZmaEPmWfxohLLwN3zbPWFsdOl2pTWw==" />
 
     
          <img id="ctl00_Image1" src="Images/eci_01.jpg" align="top" width="100%" border="0" />
@@ -51,7 +51,7 @@ Note: Downloaded file is in ZIP format.</td>
 </tr>
 <tr>
 <td style="border: thin solid #800000"  align="left" class="style1" colspan="2"> 
-    <span id="ctl00_ContentPlaceHolder1_lblMsg"><b><font color="#006600">No Record Found.</font></b></span>
+    <span id="ctl00_ContentPlaceHolder1_lblMsg"><b><font color="#006600"></font></b></span>
     </td>
 </tr>
 </table>
@@ -63,12 +63,130 @@ Note: Downloaded file is in ZIP format.</td>
             <table cellspacing="0" align="Center" rules="all" border="1" id="ctl00_ContentPlaceHolder1_uigrdAffidavit" width="50%">
 	<tr align="center" bgcolor="Chocolate">
 		<td><b>SL_NO.</b></td><td><b>CANDIDATE NAME</b></td><td><b>PARTY NAME</b></td>
+	</tr><tr align="left">
+		<td>1</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl02$ctl00','')">DHAS SURESH RAMCHANDRA</a></td><td>Nationalist Congress Party</td>
+	</tr><tr align="left">
+		<td>2</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl03$ctl00','')">DHAS SURESH RAMCHANDRAA</a></td><td>Nationalist Congress Party</td>
+	</tr><tr align="left">
+		<td>3</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl04$ctl00','')">DHAS SURESH RAMCHANDRA</a></td><td>Nationalist Congress Party</td>
+	</tr><tr align="left">
+		<td>4</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl05$ctl00','')">TEJAS ANKUSH GHUMARE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>6</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl06$ctl00','')">ARJUN HANMANTA NIMBALKAR</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>7</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl07$ctl00','')">SAYYED MUBIN RAHIMTULLA</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>12</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl08$ctl00','')">DR. WAHVAL JITENDRA MAHADEV</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>13</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl09$ctl00','')">SHRIKANT VISHNU GADALE</a></td><td>Akhil Bharatiya Sena</td>
+	</tr><tr align="left">
+		<td>14</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl10$ctl00','')">SHRIKANT VISHNU GADALE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>15</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl11$ctl00','')">ROTHOD DIGAMBAR RAMRAO</a></td><td>Bahujan Samaj Party</td>
+	</tr><tr align="left">
+		<td>16</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl12$ctl00','')">RATHOD DIGAMBAR RAMRAO</a></td><td>Bahujan Samaj Party</td>
+	</tr><tr align="left">
+		<td>17</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl13$ctl00','')">AGHAV JAYPRAKASH SITARAM</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>18</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl14$ctl00','')">MUNDE GOPINATHRAO PANDURANG</a></td><td>Bharatiya Janata Party</td>
+	</tr><tr align="left">
+		<td>19</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl15$ctl00','')">MANIKRAO MADHAVRAO BAVNE</a></td><td>Samajwadi Party</td>
+	</tr><tr align="left">
+		<td>21</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl16$ctl00','')">SAYYED MINHAJ</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>22</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl17$ctl00','')">RAHUL PRABHAKAR KAMBLE</a></td><td>Ambedkarite Party of India</td>
+	</tr><tr align="left">
+		<td>23</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl18$ctl00','')">KALE KRISHNA BHANUDAS</a></td><td>Bharipa Bahujan Mahasangh</td>
+	</tr><tr align="left">
+		<td>25</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl19$ctl00','')">MUNDE GOPINATHRAO PANDURANG</a></td><td>Bharatiya Janata Party</td>
+	</tr><tr align="left">
+		<td>26</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl20$ctl00','')">MUNDE GOPINATHRAO PANDURANG</a></td><td>Bharatiya Janata Party</td>
+	</tr><tr align="left">
+		<td>27</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl21$ctl00','')">KALE KRISHNA BHANUDAS</a></td><td>Bharipa Bahujan Mahasangh</td>
+	</tr><tr align="left">
+		<td>28</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl22$ctl00','')">BHAGWAT HARIHAR TAWARE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>29</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl23$ctl00','')">DONGARE MILIND KASHINATH</a></td><td>Prabuddha Republican Party</td>
+	</tr><tr align="left">
+		<td>30</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl24$ctl00','')">DONGARE MILIND KASHINATH</a></td><td>Republican Party of India Ektavadi</td>
+	</tr><tr align="left">
+		<td>31</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl25$ctl00','')">SHAIKH SHAFIQ SHABBIR</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>32</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl26$ctl00','')">DHAS SURESH RAMCHANDRA</a></td><td>Nationalist Congress Party</td>
+	</tr><tr align="left">
+		<td>33</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl27$ctl00','')">SAYYED SALIM FATTU</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>34</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl28$ctl00','')">GANGADHAR SITARAM KALKUTE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>35</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl29$ctl00','')">NADU MADHAV</a></td><td>Aam Aadmi Party</td>
+	</tr><tr align="left">
+		<td>36</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl30$ctl00','')">NADU MADHAV</a></td><td>Aam Aadmi Party</td>
+	</tr><tr align="left">
+		<td>37</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl31$ctl00','')">NADU MADHAV</a></td><td>Aam Aadmi Party</td>
+	</tr><tr align="left">
+		<td>39</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl32$ctl00','')">JETHLIA SANTOSH MITTHULAL</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>41</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl33$ctl00','')">MANIKRAO MADHAVRAO BAVNE</a></td><td>Samajwadi Party</td>
+	</tr><tr align="left">
+		<td>44</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl34$ctl00','')">INAMDAR JABBERMIYA DAGERASA</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>46</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl35$ctl00','')">RATHOD DIGAMBAR RAMRAO</a></td><td>Bahujan Samaj Party</td>
+	</tr><tr align="left">
+		<td>47</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl36$ctl00','')">HOKE RAJEDRA ACHYUTRAO</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>48</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl37$ctl00','')">SOLANKE PARMESHWAR KALYANRAO</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>49</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl38$ctl00','')">SOLANKE PRKASH BHAGWANRAO</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>50</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl39$ctl00','')">SHAIKH IPTEKHAR SHER MOHMAD</a></td><td>Welfare Party Of India</td>
+	</tr><tr align="left">
+		<td>56</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl40$ctl00','')">TATE ASHOK SANTRAM</a></td><td>Ambedkarist Republican Party</td>
+	</tr><tr align="left">
+		<td>57</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl41$ctl00','')">TATE ASHOK SANTRAM</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>58</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl42$ctl00','')">TEJAS ANKUSH GHUMARE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>59</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl43$ctl00','')">KALE BAJIRAO SHANKAR</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>62</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl44$ctl00','')">AVINASH NAMDEV WANKHEDE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>63</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl45$ctl00','')">SHINGARE GOVIND BHARAT</a></td><td>Shivrajya Party</td>
+	</tr><tr align="left">
+		<td>64</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl46$ctl00','')">THORAT DHANRAJ VITTHAL</a></td><td>Maharashtra Parivartan Sena (T)</td>
+	</tr><tr align="left">
+		<td>65</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl47$ctl00','')">THORAT DHANRAJ VITTHAL</a></td><td>Maharashtra Parivartan Sena (T)</td>
+	</tr><tr align="left">
+		<td>67</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl48$ctl00','')">KHADE SUNDAR GANGADHAR</a></td><td>Maharashtra Parivartan Sena (T)</td>
+	</tr><tr align="left">
+		<td>71</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl49$ctl00','')">ASHOK DHONDIBA SONWANE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>72</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl50$ctl00','')">SAYYED NAVIDUJJAMMA</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>73</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl51$ctl00','')">SAYYED NAVIDUJJAMMA</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>74</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl52$ctl00','')">PRASHANT VISHNU SASANE</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>75</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl53$ctl00','')">SAKSAMUDRE BHAGWAN KACHRUBA</a></td><td>Bahujan Mukti Party</td>
+	</tr><tr align="left">
+		<td>76</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl54$ctl00','')">ASHOK BHAGOJI THORAT</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>77</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl55$ctl00','')">SUMITRABAI DASHRATH PAWAR</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>78</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl56$ctl00','')">SHAIKH CHAND SHIAKH MIYA</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>83</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl57$ctl00','')">SADULLA ASDULLA INAMDAR</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>84</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl58$ctl00','')">SADULLA ASDULLA INAMDAR</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>85</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl59$ctl00','')">VEER SHESHERAO CHOKHOBA</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>86</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl60$ctl00','')">TATE ASHOK SANTRAM</a></td><td>Ambedkarist Republican Party</td>
 	</tr>
 </table>
 					</P>
 </div>
 <div style="text-align:center; vertical-align:middle">
- <span id="ctl00_ContentPlaceHolder1_lblAffMsg"><b><font color="#006600"></font></b></span>
+ <span id="ctl00_ContentPlaceHolder1_lblAffMsg"><b><font color="#006600">Click on Candidate Name to get his/her affidavit</font></b></span>
 </div>
 </div>
 

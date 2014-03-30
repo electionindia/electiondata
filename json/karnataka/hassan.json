@@ -1,32 +1,8 @@
 {
   "model": [
     {
-      "name": "DR. BANUPRAKASH. K",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Hassan",
-      "data": {
-      }
-    },
-    {
-      "name": "C.H. VIJAYASHANKAR",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Hassan",
-      "data": {
-      }
-    },
-    {
-      "name": "M.MAHESH ALIAS HARSHA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Hassan",
-      "data": {
-      }
-    },
-    {
-      "name": "SANTHOSHMOHANA",
-      "party": "Aam Aadmi Party",
+      "name": "A.P. AHAMAD",
+      "party": "Bahujan Samaj Party",
       "state": "Karnataka",
       "constituency": "Hassan",
       "data": {
@@ -41,8 +17,32 @@
       }
     },
     {
+      "name": "MANJU. A.",
+      "party": "Indian National Congress",
+      "state": "Karnataka",
+      "constituency": "Hassan",
+      "data": {
+      }
+    },
+    {
+      "name": "C.H. VIJAYASHANKAR",
+      "party": "Bharatiya Janata Party",
+      "state": "Karnataka",
+      "constituency": "Hassan",
+      "data": {
+      }
+    },
+    {
       "name": "MANJUNATHA",
       "party": "Bharatiya Dr. B.R.Ambedkar Janta Party",
+      "state": "Karnataka",
+      "constituency": "Hassan",
+      "data": {
+      }
+    },
+    {
+      "name": "RUDREGOWDA",
+      "party": "Jai Vijaya Bharathi Party",
       "state": "Karnataka",
       "constituency": "Hassan",
       "data": {
@@ -57,7 +57,15 @@
       }
     },
     {
-      "name": "T.D. JAGADEESH",
+      "name": "SANTHOSH MOHAN",
+      "party": "Aam Aadmi Party",
+      "state": "Karnataka",
+      "constituency": "Hassan",
+      "data": {
+      }
+    },
+    {
+      "name": "T.D. JAGADEESHA",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Hassan",
@@ -65,15 +73,15 @@
       }
     },
     {
-      "name": "A.P. AHAMAD",
-      "party": "Bahujan Samaj Party",
+      "name": "JAVARAIAH",
+      "party": "Independent",
       "state": "Karnataka",
       "constituency": "Hassan",
       "data": {
       }
     },
     {
-      "name": "JAVARAIAH",
+      "name": "DR. BANUPRAKASH. K",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Hassan",
@@ -89,7 +97,7 @@
       }
     },
     {
-      "name": "RAJEGOWDA S.B ALIAS ANNAPPASWAMY",
+      "name": "M.MAHESH (HARSHA)",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Hassan",
@@ -97,16 +105,8 @@
       }
     },
     {
-      "name": "MANJU. A.",
-      "party": "Indian National Congress",
-      "state": "Karnataka",
-      "constituency": "Hassan",
-      "data": {
-      }
-    },
-    {
-      "name": "RUDREGOWDA",
-      "party": "Jai Vijaya Bharathi Party",
+      "name": "S.B. RAJEGOWDA",
+      "party": "Independent",
       "state": "Karnataka",
       "constituency": "Hassan",
       "data": {

@@ -1,55 +1,7 @@
 {
   "model": [
     {
-      "name": "KRISHNAMURTHY",
-      "party": "Republican Party of India (A)",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "ARUNAKUMARA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "G.B.SHIVANNA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "C.S.PUTTARAJU",
-      "party": "Janata Dal  (Secular)",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "SHIVALINGEGOWDA.S.B",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "K.UDAYAKUMAR",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "KRISHNAMURTHY.M",
+      "name": "M.KRISHNAMURTHY",
       "party": "Bahujan Samaj Party",
       "state": "Karnataka",
       "constituency": "Mandya",
@@ -57,22 +9,6 @@
       }
     },
     {
-      "name": "PRO. B.SHIVALINGAIAH",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "N.C.PUTTARAJU",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
       "name": "C.S.PUTTARAJU",
       "party": "Janata Dal  (Secular)",
       "state": "Karnataka",
@@ -81,47 +17,7 @@
       }
     },
     {
-      "name": "ASHRUFF",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "JAYACHANDRA",
-      "party": "Bahujan Mukti Party",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "RAVIKUMARA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "RAVIKUMARA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "H.N.HARISHA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "DIVYA SPANDANA URUF RAMYA",
+      "name": "RAMYA",
       "party": "Indian National Congress",
       "state": "Karnataka",
       "constituency": "Mandya",
@@ -129,24 +25,8 @@
       }
     },
     {
-      "name": "DIVYA SPANDANA URUF RAMYA",
-      "party": "Indian National Congress",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "DIVYA SPANDANA URUF RAMYA",
-      "party": "Indian National Congress",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "DIVYA SPANDANA URUF RAMYA",
-      "party": "Indian National Congress",
+      "name": "PROF. B.SHIVALINGAIAH",
+      "party": "Bharatiya Janata Party",
       "state": "Karnataka",
       "constituency": "Mandya",
       "data": {
@@ -161,40 +41,16 @@
       }
     },
     {
-      "name": "DR. C.S.HANUMANTHAPPA",
-      "party": "Aam Aadmi Party",
+      "name": "KRISHNAMURTHY KOMMERAHALLI",
+      "party": "Republican Party of India (A)",
       "state": "Karnataka",
       "constituency": "Mandya",
       "data": {
       }
     },
     {
-      "name": "BHANUPRAKASH.K.L",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "H.S.SUNDAR",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "PRO. B.SHIVALINGAIAH",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Mandya",
-      "data": {
-      }
-    },
-    {
-      "name": "K.SHIVANANDA",
-      "party": "Hindustan Janta Party",
+      "name": "JAYACHANDRA",
+      "party": "Bahujan Mukti Party",
       "state": "Karnataka",
       "constituency": "Mandya",
       "data": {
@@ -209,8 +65,16 @@
       }
     },
     {
-      "name": "MAHESHA.H.M",
-      "party": "Independent",
+      "name": "K.SHIVANANDA",
+      "party": "Hindustan Janta Party",
+      "state": "Karnataka",
+      "constituency": "Mandya",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. C.S.HANUMANTHAPPA",
+      "party": "Aam Aadmi Party",
       "state": "Karnataka",
       "constituency": "Mandya",
       "data": {
@@ -218,6 +82,46 @@
     },
     {
       "name": "ARAVIND PREMANAND",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Mandya",
+      "data": {
+      }
+    },
+    {
+      "name": "ARUNAKUMARA",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Mandya",
+      "data": {
+      }
+    },
+    {
+      "name": "ASHRAF",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Mandya",
+      "data": {
+      }
+    },
+    {
+      "name": "K.UDAYAKUMARA",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Mandya",
+      "data": {
+      }
+    },
+    {
+      "name": "N.C.PUTTARAJU",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Mandya",
+      "data": {
+      }
+    },
+    {
+      "name": "BHANUPRAKASH.K.L",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Mandya",

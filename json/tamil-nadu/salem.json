@@ -1,5 +1,20 @@
 {
   "model": [
-
+    {
+      "name": "M AHAMED SHAHJAHAN",
+      "party": "Independent",
+      "state": "Tamil Nadu",
+      "constituency": "Salem",
+      "data": {
+      }
+    },
+    {
+      "name": "R VENKATESAN",
+      "party": "Independent",
+      "state": "Tamil Nadu",
+      "constituency": "Salem",
+      "data": {
+      }
+    }
   ]
 }

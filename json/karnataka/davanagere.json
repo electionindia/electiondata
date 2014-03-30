@@ -1,16 +1,8 @@
 {
   "model": [
     {
-      "name": "G M SIDDESWARA",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
-      "name": "G.C.PATEL",
-      "party": "Sarva Janata Party",
+      "name": "A.K.PARASHURAMA KOTEMALLUR",
+      "party": "Bahujan Samaj Party",
       "state": "Karnataka",
       "constituency": "Davanagere",
       "data": {
@@ -25,54 +17,6 @@
       }
     },
     {
-      "name": "DR.SRIDHAR UDUPA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
-      "name": "B. GNANAPRAKASH",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
-      "name": "NAGARAJAPPA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
-      "name": "DADA KHALANDAR B",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
-      "name": "BASAVARAJ K.J.",
-      "party": "Aam Aadmi Party",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
-      "name": "H.K. RAMACHANDRAPPA",
-      "party": "Communist Party of India",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
       "name": "MAHIMA J PATEL",
       "party": "Janata Dal  (Secular)",
       "state": "Karnataka",
@@ -81,7 +25,39 @@
       }
     },
     {
-      "name": "PARUSHURAMAPPA",
+      "name": "COM. H.K. RAMACHANDRAPPA",
+      "party": "Communist Party of India",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "G M SIDDESHWARA",
+      "party": "Bharatiya Janata Party",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "H.K. KENCHVEERAPPA",
+      "party": "Vichara Jagruthi Congress Paksha",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "G.C.PATEL",
+      "party": "Sarva Janata Party",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "PARASURAM KURUBAR",
       "party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
       "state": "Karnataka",
       "constituency": "Davanagere",
@@ -89,7 +65,39 @@
       }
     },
     {
-      "name": "G.M.SIDDESH",
+      "name": "K.J. BASAVARAJ",
+      "party": "Aam Aadmi Party",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "ALUR M.G. SWAMY",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "A.T. DADAKHALANDAR",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "SRI NAGARAJAPPA",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Davanagere",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. SRIDHARA UDUPA",
       "party": "Independent",
       "state": "Karnataka",
       "constituency": "Davanagere",
@@ -105,16 +113,16 @@
       }
     },
     {
-      "name": "H.K. RAMACHANDRAPPA",
-      "party": "Communist Party of India",
+      "name": "G.M.SIDDESHI",
+      "party": "Independent",
       "state": "Karnataka",
       "constituency": "Davanagere",
       "data": {
       }
     },
     {
-      "name": "A.K.PARASHURAM",
-      "party": "Bahujan Samaj Party",
+      "name": "S.S. SUBHAN KHAN",
+      "party": "Independent",
       "state": "Karnataka",
       "constituency": "Davanagere",
       "data": {
@@ -129,16 +137,8 @@
       }
     },
     {
-      "name": "SUBHAN KHAN",
+      "name": "B. GNANA PRAKASH",
       "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Davanagere",
-      "data": {
-      }
-    },
-    {
-      "name": "H.K. KENCHVEERAPPA",
-      "party": "Vichara Jagruthi Congress Paksha",
       "state": "Karnataka",
       "constituency": "Davanagere",
       "data": {

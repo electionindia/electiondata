@@ -17,30 +17,6 @@
       }
     },
     {
-      "name": "SURESH",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "D H PUJAR",
-      "party": "Communist Party of India (Marxist-Leninist) Red Star",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "K BASAVARAJ",
-      "party": "Indian National Congress",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
       "name": "K BASAVARAJ",
       "party": "Indian National Congress",
       "state": "Karnataka",
@@ -51,14 +27,6 @@
     {
       "name": "SANGANNA",
       "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "V GOVIND",
-      "party": "Independent",
       "state": "Karnataka",
       "constituency": "Koppal",
       "data": {
@@ -73,48 +41,8 @@
       }
     },
     {
-      "name": "SANGANNA",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
       "name": "SHIVAKUMAR",
       "party": "Aam Aadmi Party",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "K BASAVARAJ",
-      "party": "Indian National Congress",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "K BASAVARAJ",
-      "party": "Indian National Congress",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "SRI NAGARAJ  H",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "SRI NAGARAJ  H",
-      "party": "Independent",
       "state": "Karnataka",
       "constituency": "Koppal",
       "data": {
@@ -137,38 +65,6 @@
       }
     },
     {
-      "name": "BHARADWAJ",
-      "party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "ISAKA",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "H R CHENNAKESHAVA",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "D DURGA PRASAD",
-      "party": "Independent",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
       "name": "G ANNOJI",
       "party": "Independent",
       "state": "Karnataka",
@@ -177,7 +73,7 @@
       }
     },
     {
-      "name": "NAZIR HUSSAIN",
+      "name": "NAZEER HUSSAIN",
       "party": "Rashtriya Krantikari Samajwadi Party",
       "state": "Karnataka",
       "constituency": "Koppal",
@@ -193,24 +89,40 @@
       }
     },
     {
-      "name": "SANGANNA",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
-      "name": "SANGANNA",
-      "party": "Bharatiya Janata Party",
-      "state": "Karnataka",
-      "constituency": "Koppal",
-      "data": {
-      }
-    },
-    {
       "name": "P GOVINDAREDDY",
       "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Koppal",
+      "data": {
+      }
+    },
+    {
+      "name": "D H PUJAR",
+      "party": "Communist Party of India (Marxist-Leninist) Red Star",
+      "state": "Karnataka",
+      "constituency": "Koppal",
+      "data": {
+      }
+    },
+    {
+      "name": "NAGAPPA KARATAGI",
+      "party": "Independent",
+      "state": "Karnataka",
+      "constituency": "Koppal",
+      "data": {
+      }
+    },
+    {
+      "name": "THIMMAPPA UPPAR",
+      "party": "Bharatiya Dr. B.R.Ambedkar Janta Party",
+      "state": "Karnataka",
+      "constituency": "Koppal",
+      "data": {
+      }
+    },
+    {
+      "name": "SYED ZIYAUDDIN ARIF",
+      "party": "Bahujan Samaj Party",
       "state": "Karnataka",
       "constituency": "Koppal",
       "data": {

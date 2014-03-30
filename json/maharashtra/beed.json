@@ -1,5 +1,476 @@
 {
   "model": [
-
+    {
+      "name": "DHAS SURESH RAMCHANDRA",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "DHAS SURESH RAMCHANDRAA",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "DHAS SURESH RAMCHANDRA",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "TEJAS ANKUSH GHUMARE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "ARJUN HANMANTA NIMBALKAR",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SAYYED MUBIN RAHIMTULLA",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. WAHVAL JITENDRA MAHADEV",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SHRIKANT VISHNU GADALE",
+      "party": "Akhil Bharatiya Sena",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SHRIKANT VISHNU GADALE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "ROTHOD DIGAMBAR RAMRAO",
+      "party": "Bahujan Samaj Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "RATHOD DIGAMBAR RAMRAO",
+      "party": "Bahujan Samaj Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "AGHAV JAYPRAKASH SITARAM",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "MUNDE GOPINATHRAO PANDURANG",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "MANIKRAO MADHAVRAO BAVNE",
+      "party": "Samajwadi Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SAYYED MINHAJ",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "RAHUL PRABHAKAR KAMBLE",
+      "party": "Ambedkarite Party of India",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "KALE KRISHNA BHANUDAS",
+      "party": "Bharipa Bahujan Mahasangh",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "MUNDE GOPINATHRAO PANDURANG",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "MUNDE GOPINATHRAO PANDURANG",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "KALE KRISHNA BHANUDAS",
+      "party": "Bharipa Bahujan Mahasangh",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "BHAGWAT HARIHAR TAWARE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "DONGARE MILIND KASHINATH",
+      "party": "Prabuddha Republican Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "DONGARE MILIND KASHINATH",
+      "party": "Republican Party of India Ektavadi",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SHAIKH SHAFIQ SHABBIR",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "DHAS SURESH RAMCHANDRA",
+      "party": "Nationalist Congress Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SAYYED SALIM FATTU",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "GANGADHAR SITARAM KALKUTE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "NADU MADHAV",
+      "party": "Aam Aadmi Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "NADU MADHAV",
+      "party": "Aam Aadmi Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "NADU MADHAV",
+      "party": "Aam Aadmi Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "JETHLIA SANTOSH MITTHULAL",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "MANIKRAO MADHAVRAO BAVNE",
+      "party": "Samajwadi Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "INAMDAR JABBERMIYA DAGERASA",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "RATHOD DIGAMBAR RAMRAO",
+      "party": "Bahujan Samaj Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "HOKE RAJEDRA ACHYUTRAO",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SOLANKE PARMESHWAR KALYANRAO",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SOLANKE PRKASH BHAGWANRAO",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SHAIKH IPTEKHAR SHER MOHMAD",
+      "party": "Welfare Party Of India",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "TATE ASHOK SANTRAM",
+      "party": "Ambedkarist Republican Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "TATE ASHOK SANTRAM",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "TEJAS ANKUSH GHUMARE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "KALE BAJIRAO SHANKAR",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "AVINASH NAMDEV WANKHEDE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SHINGARE GOVIND BHARAT",
+      "party": "Shivrajya Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "THORAT DHANRAJ VITTHAL",
+      "party": "Maharashtra Parivartan Sena (T)",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "THORAT DHANRAJ VITTHAL",
+      "party": "Maharashtra Parivartan Sena (T)",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "KHADE SUNDAR GANGADHAR",
+      "party": "Maharashtra Parivartan Sena (T)",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "ASHOK DHONDIBA SONWANE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SAYYED NAVIDUJJAMMA",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SAYYED NAVIDUJJAMMA",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "PRASHANT VISHNU SASANE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SAKSAMUDRE BHAGWAN KACHRUBA",
+      "party": "Bahujan Mukti Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "ASHOK BHAGOJI THORAT",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SUMITRABAI DASHRATH PAWAR",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SHAIKH CHAND SHIAKH MIYA",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SADULLA ASDULLA INAMDAR",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "SADULLA ASDULLA INAMDAR",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "VEER SHESHERAO CHOKHOBA",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    },
+    {
+      "name": "TATE ASHOK SANTRAM",
+      "party": "Ambedkarist Republican Party",
+      "state": "Maharashtra",
+      "constituency": "Beed",
+      "data": {
+      }
+    }
   ]
 }

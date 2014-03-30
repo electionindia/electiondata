@@ -1,7 +1,7 @@
 {
   "model": [
     {
-      "name": "SHRI CHAVAN ASHOKRAO SHANKARRAO",
+      "name": "ASHOK SHANKARRAO CHAVAN",
       "party": "Indian National Congress",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -9,7 +9,7 @@
       }
     },
     {
-      "name": "PAWAR (PATIL) DIGAMBAR BAPUJI",
+      "name": "D. B. PATIL",
       "party": "Bharatiya Janata Party",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "name": "VAIDY HANSRAJ  DADARAO",
+      "name": "DR. HANSRAJ DADARAOJI VAIDYA",
       "party": "Bahujan Samaj Party",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -25,8 +25,8 @@
       }
     },
     {
-      "name": "ALTAF AHAMAD IQBAL AHMAD",
-      "party": "Independent",
+      "name": "ALTAF AHMED IQBAL AHMED",
+      "party": "Indian Union Muslim League",
       "state": "Maharashtra",
       "constituency": "Nanded",
       "data": {
@@ -65,7 +65,7 @@
       }
     },
     {
-      "name": "SHAIKH AFAJALODDIN AZIMODDIN",
+      "name": "SHAIKH AFZALUDDIN AZEEMUDDIN",
       "party": "Lok Bharati",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "SAYYAD TANVIR SAYYAD HAMJA",
+      "name": "SAYYED TANVEER SAYYADHAMAJA",
       "party": "Majlis Bachao Tahreek",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -81,7 +81,7 @@
       }
     },
     {
-      "name": "GHUNNAR PRAKASH VITTHALRAO",
+      "name": "GHUNNAR PRAKASH VITHALRAO",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "name": "SURYAWANSHI DATTARAM BALAJI",
+      "name": "DATTARAM BALAJI SURWANSHI",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -97,7 +97,7 @@
       }
     },
     {
-      "name": "ADV. DEELIP KULKARNI",
+      "name": "ADV. DEELIP PRABHAKARRAO KULKARNI (PHULWALKAR)",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -105,15 +105,7 @@
       }
     },
     {
-      "name": "HANUMANTE DHONDOPANT NAGORAO",
-      "party": "Rashtriya Kisan Congress Party",
-      "state": "Maharashtra",
-      "constituency": "Nanded",
-      "data": {
-      }
-    },
-    {
-      "name": "PATHAN JAFAR ALI KHA MD. ALI KHA",
+      "name": "ADV. DHONDOPANT NAGORAO HANUMANTE",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -121,7 +113,7 @@
       }
     },
     {
-      "name": "WADJE PANJAB SHRIHARI",
+      "name": "PATHAN ZAFAR ALIKHAN MEHMOOD ALIKHAN",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -129,7 +121,15 @@
       }
     },
     {
-      "name": "FEROZ KHAN KARIM KHAN IBRAHIM KHAN",
+      "name": "PANJABRAO SHRIHARI WADJE PATIL",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Nanded",
+      "data": {
+      }
+    },
+    {
+      "name": "FEROZ KHAN GAZI",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -161,7 +161,7 @@
       }
     },
     {
-      "name": "VENUGOPAL SHASTRI TUMULURI",
+      "name": "VENUGOPAL SHASTRI TUMULURI S/O RAMKRISHNA",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",
@@ -177,7 +177,7 @@
       }
     },
     {
-      "name": "HANUMANTE VIJAY CHANDRAO",
+      "name": "HANMANTE VIJAY CHANDRAO",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Nanded",

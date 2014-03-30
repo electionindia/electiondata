@@ -1,8 +1,16 @@
 {
   "model": [
     {
-      "name": "NRIPENDRA NARAYAN SINGHA KARJEE",
-      "party": "SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)",
+      "name": "KESHAB CHANDRA RAY",
+      "party": "Indian National Congress",
+      "state": "West Bengal",
+      "constituency": "Cooch behar",
+      "data": {
+      }
+    },
+    {
+      "name": "GIRINDRA NATH BARMAN",
+      "party": "Bahujan Samaj Party",
       "state": "West Bengal",
       "constituency": "Cooch behar",
       "data": {
@@ -17,14 +25,6 @@
       }
     },
     {
-      "name": "HEM CHANDRA BARMAN",
-      "party": "Bharatiya Janata Party",
-      "state": "West Bengal",
-      "constituency": "Cooch behar",
-      "data": {
-      }
-    },
-    {
       "name": "RENUKA SINHA",
       "party": "All India Trinamool Congress",
       "state": "West Bengal",
@@ -33,40 +33,8 @@
       }
     },
     {
-      "name": "BANGSHI BADAN BARMAN",
-      "party": "Independent",
-      "state": "West Bengal",
-      "constituency": "Cooch behar",
-      "data": {
-      }
-    },
-    {
-      "name": "KESHAB CHANDRA RAY",
-      "party": "Indian National Congress",
-      "state": "West Bengal",
-      "constituency": "Cooch behar",
-      "data": {
-      }
-    },
-    {
-      "name": "HITENDRA DAS",
-      "party": "Independent",
-      "state": "West Bengal",
-      "constituency": "Cooch behar",
-      "data": {
-      }
-    },
-    {
-      "name": "PIJUSH BARMAN",
-      "party": "Welfare Party Of India",
-      "state": "West Bengal",
-      "constituency": "Cooch behar",
-      "data": {
-      }
-    },
-    {
-      "name": "HAREKRISHNA SARKAR",
-      "party": "Republican Party of India (A)",
+      "name": "HEM CHANDRA BARMAN",
+      "party": "Bharatiya Janata Party",
       "state": "West Bengal",
       "constituency": "Cooch behar",
       "data": {
@@ -89,8 +57,40 @@
       }
     },
     {
-      "name": "GIRINDRA NATH BARMAN",
-      "party": "Bahujan Samaj Party",
+      "name": "NRIPEN KARJEE",
+      "party": "SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)",
+      "state": "West Bengal",
+      "constituency": "Cooch behar",
+      "data": {
+      }
+    },
+    {
+      "name": "PIJUSH BARMAN",
+      "party": "Welfare Party Of India",
+      "state": "West Bengal",
+      "constituency": "Cooch behar",
+      "data": {
+      }
+    },
+    {
+      "name": "HAREKRISHNA SARKAR",
+      "party": "Republican Party of India (A)",
+      "state": "West Bengal",
+      "constituency": "Cooch behar",
+      "data": {
+      }
+    },
+    {
+      "name": "BANGSHI BADAN BARMAN",
+      "party": "Independent",
+      "state": "West Bengal",
+      "constituency": "Cooch behar",
+      "data": {
+      }
+    },
+    {
+      "name": "HITENDRA DAS",
+      "party": "Independent",
       "state": "West Bengal",
       "constituency": "Cooch behar",
       "data": {

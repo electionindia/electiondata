@@ -19,7 +19,7 @@
 </head>
 <body style="background-color:#C7DDF7" >
     <form name="aspnetForm" method="post" action="CANDIDATEAFFIDAVIT.aspx?YEARID=May-2014+(+GEN+)&amp;AC_No=31&amp;st_code=S22&amp;constType=PC" id="aspnetForm" style="margin-top:-15px;">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2NTMxNTU2Mg9kFgJmD2QWAgIDD2QWAgIDD2QWCAIBDw8WAh4EVGV4dAUaU1RBVEUgTkFNRTogUzIyLVRhbWlsIE5hZHVkZAIDDw8WAh8ABRVQQyBOQU1FOiAzMS1TaXZhZ2FuZ2FkZAIJDw8WAh8ABRBObyBSZWNvcmQgRm91bmQuZGQCDQ8PFgIfAGVkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUpY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjaGtyZWplY3RlZENhbmQFJ2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkQ2hrQ291bnRlckFmZpypHNG+30GIkum7KMnN/r3bd4hA" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2NTMxNTU2Mg9kFgJmD2QWAgIDD2QWAgIDD2QWCAIBDw8WAh4EVGV4dAUaU1RBVEUgTkFNRTogUzIyLVRhbWlsIE5hZHVkZAIDDw8WAh8ABRVQQyBOQU1FOiAzMS1TaXZhZ2FuZ2FkZAIJDw8WAh8AZWRkAg0PDxYCHwAFMENsaWNrIG9uIENhbmRpZGF0ZSBOYW1lIHRvIGdldCBoaXMvaGVyIGFmZmlkYXZpdGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBSljdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGNoa3JlamVjdGVkQ2FuZAUnY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRDaGtDb3VudGVyQWZmeKXw5D6OKVLeS0VaYd4zIg1sfYQ=" />
 
     
          <img id="ctl00_Image1" src="Images/eci_01.jpg" align="top" width="100%" border="0" />
@@ -51,7 +51,7 @@ Note: Downloaded file is in ZIP format.</td>
 </tr>
 <tr>
 <td style="border: thin solid #800000"  align="left" class="style1" colspan="2"> 
-    <span id="ctl00_ContentPlaceHolder1_lblMsg"><b><font color="#006600">No Record Found.</font></b></span>
+    <span id="ctl00_ContentPlaceHolder1_lblMsg"><b><font color="#006600"></font></b></span>
     </td>
 </tr>
 </table>
@@ -63,12 +63,16 @@ Note: Downloaded file is in ZIP format.</td>
             <table cellspacing="0" align="Center" rules="all" border="1" id="ctl00_ContentPlaceHolder1_uigrdAffidavit" width="50%">
 	<tr align="center" bgcolor="Chocolate">
 		<td><b>SL_NO.</b></td><td><b>CANDIDATE NAME</b></td><td><b>PARTY NAME</b></td>
+	</tr><tr align="left">
+		<td>1</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl02$ctl00','')">M.SARAVANAN</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>2</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl03$ctl00','')">K.KALAIMANI</a></td><td>Makkal Manadu Katchi</td>
 	</tr>
 </table>
 					</P>
 </div>
 <div style="text-align:center; vertical-align:middle">
- <span id="ctl00_ContentPlaceHolder1_lblAffMsg"><b><font color="#006600"></font></b></span>
+ <span id="ctl00_ContentPlaceHolder1_lblAffMsg"><b><font color="#006600">Click on Candidate Name to get his/her affidavit</font></b></span>
 </div>
 </div>
 

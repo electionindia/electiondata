@@ -64,25 +64,25 @@ Note: Downloaded file is in ZIP format.</td>
 	<tr align="center" bgcolor="Chocolate">
 		<td><b>SL_NO.</b></td><td><b>CANDIDATE NAME</b></td><td><b>PARTY NAME</b></td>
 	</tr><tr align="left">
-		<td>1</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl02$ctl00','')">AYARE RAJENDRA LAHU</a></td><td>Bahujan Samaj Party</td>
+		<td>2</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl02$ctl00','')">NILESH NARAYAN RANE</a></td><td>Indian National Congress</td>
 	</tr><tr align="left">
-		<td>2</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl03$ctl00','')">NILESH NARAYAN RANE</a></td><td>Indian National Congress</td>
+		<td>3</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl03$ctl00','')">VINAYAK BHAURAO RAUT</a></td><td>Shivsena</td>
 	</tr><tr align="left">
-		<td>3</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl04$ctl00','')">VINAYAK BHAURAO RAUT</a></td><td>Shivsena</td>
+		<td>4</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl04$ctl00','')">ABHIJIT SHRIRAM HEGSHETYE</a></td><td>Aam Aadmi Party</td>
 	</tr><tr align="left">
-		<td>4</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl05$ctl00','')">ABHIJIT SHRIRAM HEGSHETYE</a></td><td>Aam Aadmi Party</td>
+		<td>6</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl05$ctl00','')">BIRJE YASHWANT ANANT</a></td><td>Bahujan Mukti Party</td>
 	</tr><tr align="left">
-		<td>5</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl06$ctl00','')">ADV.DIPAK DATTARAM NEVGI</a></td><td>Socialist Party (India)</td>
+		<td>7</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl06$ctl00','')">VINOD HANUMANTRAO SAWANT</a></td><td>Akhil Bharat Hindu Mahasabha</td>
 	</tr><tr align="left">
-		<td>6</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl07$ctl00','')">BIRJE YASHWANT ANANT</a></td><td>Bahujan Mukti Party</td>
+		<td>8</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl07$ctl00','')">AJINKYA DHONDU GAWADE</a></td><td>Independent</td>
 	</tr><tr align="left">
-		<td>7</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl08$ctl00','')">VINOD HANUMANTRAO SAWANT</a></td><td>Akhil Bharat Hindu Mahasabha</td>
+		<td>9</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl08$ctl00','')">ARUN HARISHCHANDRA MANJREKAR</a></td><td>Independent</td>
 	</tr><tr align="left">
-		<td>8</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl09$ctl00','')">AJINKYA DHONDU GAWADE</a></td><td>Independent</td>
+		<td>10</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl09$ctl00','')">SUNIL ALIAS YASHWANT VASANT PEDNEKAR</a></td><td>Independent</td>
 	</tr><tr align="left">
-		<td>9</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl10$ctl00','')">ARUN HARISHCHANDRA MANJREKAR</a></td><td>Independent</td>
+		<td>11</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl10$ctl00','')">ADV DIPAK DATTARAM NEVGI</a></td><td>Socialist Party (India)</td>
 	</tr><tr align="left">
-		<td>10</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl11$ctl00','')">SUNIL ALIAS YASHWANT VASANT PEDNEKAR</a></td><td>Independent</td>
+		<td>12</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl11$ctl00','')">AYARE RAJENDRA LAHU</a></td><td>Bahujan Samaj Party</td>
 	</tr>
 </table>
 					</P>

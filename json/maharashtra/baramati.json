@@ -1,40 +1,8 @@
 {
   "model": [
     {
-      "name": "MAHADEO JAGANNATH JANKAR",
-      "party": "Rashtriya Samaj Paksha",
-      "state": "Maharashtra",
-      "constituency": "Baramati",
-      "data": {
-      }
-    },
-    {
-      "name": "KOKARE SHIVAJI JAYSINGH",
-      "party": "Independent",
-      "state": "Maharashtra",
-      "constituency": "Baramati",
-      "data": {
-      }
-    },
-    {
-      "name": "CHAUDHARI KALU VINAYAK",
+      "name": "CHAUDHARI KALURAM VINAYAK",
       "party": "Bahujan Samaj Party",
-      "state": "Maharashtra",
-      "constituency": "Baramati",
-      "data": {
-      }
-    },
-    {
-      "name": "SURESH KHOPADE",
-      "party": "Aam Aadmi Party",
-      "state": "Maharashtra",
-      "constituency": "Baramati",
-      "data": {
-      }
-    },
-    {
-      "name": "SURESH BABURAO VEER",
-      "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Baramati",
       "data": {
@@ -49,7 +17,23 @@
       }
     },
     {
-      "name": "RAVINDRA BHIMRAO TAKALE",
+      "name": "TATYASAHEB SITARAM TELE",
+      "party": "Janata Dal  (Secular)",
+      "state": "Maharashtra",
+      "constituency": "Baramati",
+      "data": {
+      }
+    },
+    {
+      "name": "MAHADEV JAGANNATH JANKAR",
+      "party": "Rashtriya Samaj Paksha",
+      "state": "Maharashtra",
+      "constituency": "Baramati",
+      "data": {
+      }
+    },
+    {
+      "name": "RAVINDRA TAKALE",
       "party": "Bahujan Mukti Party",
       "state": "Maharashtra",
       "constituency": "Baramati",
@@ -57,7 +41,15 @@
       }
     },
     {
-      "name": "MAHADIK PRAHLAD DAGADU",
+      "name": "SURESH KHOPADE",
+      "party": "Aam Aadmi Party",
+      "state": "Maharashtra",
+      "constituency": "Baramati",
+      "data": {
+      }
+    },
+    {
+      "name": "KOKARE SHIVAJI JAYSING",
       "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Baramati",
@@ -65,8 +57,16 @@
       }
     },
     {
-      "name": "TATYASO SITARAM TELE",
-      "party": "Janata Dal  (Secular)",
+      "name": "MAHADIK PRALHAD DAGADU",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Baramati",
+      "data": {
+      }
+    },
+    {
+      "name": "SURESHDADA BABURAO VEER",
+      "party": "Independent",
       "state": "Maharashtra",
       "constituency": "Baramati",
       "data": {
