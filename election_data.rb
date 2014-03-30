@@ -10,6 +10,8 @@ OptionParser.new do |o|
   o.parse!
 end
 
+$global_parties = {}
+
 def parse_file f
   state_line = `cat #{f} | grep 'STATE NAME'`
   els = (/<b>(.*)<\/b>/.match state_line)[1].split("-")
@@ -27,9 +29,28 @@ def parse_file f
     constituency = els[1,5].join("-").strip
   end
 
+  candidates = []
+  candidate_lines = `grep "javascript:__doPostBack(" #{f}`
+  if candidate_lines
+    candidate_lines.split("\n").each{|l|
+      tds = /<td>(\d*)<\/td><td><a.*>(.*)<\/a><\/td><td>(.*)<\/td>/.match l
+      info = {
+        name: tds[2],
+        party: tds[3],
+        state: state,
+        constituency: constituency,
+        data: {}
+      }
+      candidates.push info
+      $global_parties[tds[3]] ||= []
+      $global_parties[tds[3]].push info
+    }
+  end
+
   return {
     state: state,
-    constituency: constituency
+    constituency: constituency,
+    candidates: candidates
   }
 
 end
@@ -65,6 +86,26 @@ if $scrape
     }
   }
   File.open("scraped_filelist", "w+") {|f| f.write(complete_file_list.join("\n"))}
+end
+
+if $parse
+  data = []
+  File.open("scraped_filelist", "r") {|f| data.concat f.read.split("\n")}
+  if !data.length
+    puts "Cannot find scraped files list."
+    exit
+  end
+  puts "----Parsing----"
+  data.each {|f|
+    r = parse_file f
+    if !r
+      puts "  X Unable to parse #{f}"
+    else
+      puts "  > #{r[:state]}, #{r[:constituency]}"
+      File.open("#{f}.json", "w+") {|j| j.write r.to_json.to_s}
+    end
+  }
+  File.open("party_candidates.json", "w+") {|j| j.write JSON.pretty_generate($global_parties)}
 end
 
 
