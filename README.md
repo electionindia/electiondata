@@ -12,9 +12,22 @@ To parse the information into json files,
 
 ```./election_data.rb --parse```
 
+Aims of this project:
+============
+
+* Collect and make available data related to candidates standing for elections in the Lok Sabha 2014 elections.
+* Be apolitical. This is a data only project, and not an outlet for any particular political party.
+* Complete transparency -- all information, and code related to the project are public.
+* Neat and clean public interface of data -- so it's easy for anyone to find information about constituencies/candidates.
+
 TODOs:
 ---
 * ~~Write scraper~~
 * Write parser
 * Build website to view information.
+
+Thanks
+---
+* This project was inspired by the final episode of Satyamev Jayate season 2. Truth prevails more easily when information is available.
+* Election commission of India website: http://affidavitarchive.nic.in/
 
