@@ -1,0 +1,68 @@
+{
+  "model": [
+    {
+      "name": "ANANTA NAYAK",
+      "party": "Bharatiya Janata Party",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    },
+    {
+      "name": "JAGAT MOHAN NAIK",
+      "party": "Bahujan Samaj Party",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    },
+    {
+      "name": "MADHABA SARDAR",
+      "party": "Indian National Congress",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    },
+    {
+      "name": "SAKUNTALA LAGURI",
+      "party": "Biju Janata Dal",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    },
+    {
+      "name": "BISHNUPRIYA NAIK",
+      "party": "Odisha Jan Morcha",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. SUDARSHAN LOHAR",
+      "party": "Rashtriya Indepndent Morcha",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    },
+    {
+      "name": "BASUDEB NAIK",
+      "party": "Independent",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    },
+    {
+      "name": "SUJIT KUMAR LUGUN",
+      "party": "Independent",
+      "state": "Orissa",
+      "constituency": "Keonjhar",
+      "data": {
+      }
+    }
+  ]
+}

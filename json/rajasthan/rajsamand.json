@@ -1,0 +1,100 @@
+{
+  "model": [
+    {
+      "name": "GOPAL SINGH SHEKHAWAT",
+      "party": "Indian National Congress",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "NEERU RAM",
+      "party": "Bahujan Samaj Party",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "HARI OM SINGH RATHORE",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "IDRISH MOHAMMAD",
+      "party": "Jago Party",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "GULAM FARID",
+      "party": "Samajwadi Party",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "PRADIP SINGH BHATNAGAR",
+      "party": "Aam Aadmi Party",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "LAXMAN",
+      "party": "Jai Maha Bharath Party",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "KHIMA RAM SALAVI",
+      "party": "Independent",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "BHANWAR LAL MALI",
+      "party": "Independent",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "SANJAY CHOUDHARY",
+      "party": "Independent",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "SURYA BHAVANI SINGH CHAWADA",
+      "party": "Independent",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    },
+    {
+      "name": "HEERA ALIAS HEERA BHAI KATHAT",
+      "party": "Independent",
+      "state": "Rajasthan",
+      "constituency": "Rajsamand",
+      "data": {
+      }
+    }
+  ]
+}

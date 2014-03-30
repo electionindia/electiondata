@@ -1,0 +1,52 @@
+{
+  "model": [
+    {
+      "name": "MANSHANKAR NINAMA",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Banswara",
+      "data": {
+      }
+    },
+    {
+      "name": "RESHAM MALVIYA",
+      "party": "Indian National Congress",
+      "state": "Rajasthan",
+      "constituency": "Banswara",
+      "data": {
+      }
+    },
+    {
+      "name": "VIJAYPAL",
+      "party": "Bahujan Samaj Party",
+      "state": "Rajasthan",
+      "constituency": "Banswara",
+      "data": {
+      }
+    },
+    {
+      "name": "BHANJI BHAI",
+      "party": "Janata Dal  (United)",
+      "state": "Rajasthan",
+      "constituency": "Banswara",
+      "data": {
+      }
+    },
+    {
+      "name": "SOMA LAL KOTED",
+      "party": "Bahujan Mukti Party",
+      "state": "Rajasthan",
+      "constituency": "Banswara",
+      "data": {
+      }
+    },
+    {
+      "name": "HARISH RAWAT",
+      "party": "Aam Aadmi Party",
+      "state": "Rajasthan",
+      "constituency": "Banswara",
+      "data": {
+      }
+    }
+  ]
+}

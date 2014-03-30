@@ -1,0 +1,84 @@
+{
+  "model": [
+    {
+      "name": "ANJU URF MUSKAN",
+      "party": "Rashtriya Lok Dal",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "KAMLESH",
+      "party": "Samajwadi Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "PRADEEP KUMAR JATAV",
+      "party": "Bahujan Samaj Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "BHOLA SINGH",
+      "party": "Bharatiya Janata Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "PYARE LAL",
+      "party": "Bahujan Mukti Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "RAGHURAJ PRATAP SINGH",
+      "party": "Rashtriya Kranti Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. RAHUL DIPANKAR",
+      "party": "Aam Aadmi Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "VIJAI PAL",
+      "party": "Rashtriya Janpriya Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "SURESH",
+      "party": "Jai Maha Bharath Party",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    },
+    {
+      "name": "HARVIR",
+      "party": "Independent",
+      "state": "Uttar Pradesh",
+      "constituency": "Bulandshahr",
+      "data": {
+      }
+    }
+  ]
+}

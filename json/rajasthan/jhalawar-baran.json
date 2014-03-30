@@ -1,0 +1,52 @@
+{
+  "model": [
+    {
+      "name": "CHANDRA SINGH",
+      "party": "Bahujan Samaj Party",
+      "state": "Rajasthan",
+      "constituency": "JHALAWAR-BARAN",
+      "data": {
+      }
+    },
+    {
+      "name": "DUSHYANT SINGH",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "JHALAWAR-BARAN",
+      "data": {
+      }
+    },
+    {
+      "name": "PRAMOD BHAYA",
+      "party": "Indian National Congress",
+      "state": "Rajasthan",
+      "constituency": "JHALAWAR-BARAN",
+      "data": {
+      }
+    },
+    {
+      "name": "JAVED KHAN",
+      "party": "Bharatiya Yuva Shakti",
+      "state": "Rajasthan",
+      "constituency": "JHALAWAR-BARAN",
+      "data": {
+      }
+    },
+    {
+      "name": "BALDAR",
+      "party": "Independent",
+      "state": "Rajasthan",
+      "constituency": "JHALAWAR-BARAN",
+      "data": {
+      }
+    },
+    {
+      "name": "SULEMAN PUTA",
+      "party": "Independent",
+      "state": "Rajasthan",
+      "constituency": "JHALAWAR-BARAN",
+      "data": {
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "model": [
+    {
+      "name": "BHAI B.C. KAMBLE",
+      "party": "Bahujan Samaj Party",
+      "state": "Maharashtra",
+      "constituency": "Akola",
+      "data": {
+      }
+    },
+    {
+      "name": "DHOTRE SANJAY SHAMRAO",
+      "party": "Bharatiya Janata Party",
+      "state": "Maharashtra",
+      "constituency": "Akola",
+      "data": {
+      }
+    },
+    {
+      "name": "PATEL HIDAYAT ULLA BARKAT ULLA",
+      "party": "Indian National Congress",
+      "state": "Maharashtra",
+      "constituency": "Akola",
+      "data": {
+      }
+    },
+    {
+      "name": "AJAY PANJABRAO HINGANKAR",
+      "party": "Aam Aadmi Party",
+      "state": "Maharashtra",
+      "constituency": "Akola",
+      "data": {
+      }
+    },
+    {
+      "name": "AMBEDKAR PRAKASH YASHWANT",
+      "party": "Bharipa Bahujan Mahasangh",
+      "state": "Maharashtra",
+      "constituency": "Akola",
+      "data": {
+      }
+    },
+    {
+      "name": "SHAIKH HAMEED IMAM",
+      "party": "Bahujan Mukti Party",
+      "state": "Maharashtra",
+      "constituency": "Akola",
+      "data": {
+      }
+    },
+    {
+      "name": "SANDIP KISANRAO WANKHEDE",
+      "party": "Independent",
+      "state": "Maharashtra",
+      "constituency": "Akola",
+      "data": {
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "model": [
+    {
+      "name": "ARJUNLAL MEENA",
+      "party": "Bharatiya Janata Party",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    },
+    {
+      "name": "MEGHRAJ TAWAR",
+      "party": "Communist Party of India",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    },
+    {
+      "name": "RAGHUVIR SINGH",
+      "party": "Indian National Congress",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    },
+    {
+      "name": "LAXMAN BHIL",
+      "party": "Bahujan Samaj Party",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    },
+    {
+      "name": "GOTAM LAL MEENA",
+      "party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    },
+    {
+      "name": "PRABHULAL MEENA",
+      "party": "Bahujan Mukti Party",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    },
+    {
+      "name": "LAXMILAL GAMETI",
+      "party": "Socialist Party (India)",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    },
+    {
+      "name": "VELARAM",
+      "party": "Aam Aadmi Party",
+      "state": "Rajasthan",
+      "constituency": "Udaipur",
+      "data": {
+      }
+    }
+  ]
+}

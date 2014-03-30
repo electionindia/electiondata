@@ -1,0 +1,60 @@
+{
+  "model": [
+    {
+      "name": "RAVI NAIK",
+      "party": "Indian National Congress",
+      "state": "Goa",
+      "constituency": "North Goa",
+      "data": {
+      }
+    },
+    {
+      "name": "SHRIPAD YESSO NAIK",
+      "party": "Bharatiya Janata Party",
+      "state": "Goa",
+      "constituency": "North Goa",
+      "data": {
+      }
+    },
+    {
+      "name": "ADV. SUHAS NAIK",
+      "party": "Communist Party of India",
+      "state": "Goa",
+      "constituency": "North Goa",
+      "data": {
+      }
+    },
+    {
+      "name": "DR.DATTARAM DESAI",
+      "party": "Aam Aadmi Party",
+      "state": "Goa",
+      "constituency": "North Goa",
+      "data": {
+      }
+    },
+    {
+      "name": "RAJU DSOUZA",
+      "party": "Samajwadi Janata Party (Rashtriya)",
+      "state": "Goa",
+      "constituency": "North Goa",
+      "data": {
+      }
+    },
+    {
+      "name": "DAYANAND G. NARVEKAR",
+      "party": "Independent",
+      "state": "Goa",
+      "constituency": "North Goa",
+      "data": {
+      }
+    },
+    {
+      "name": "MITTU MUJAVAR",
+      "party": "Independent",
+      "state": "Goa",
+      "constituency": "North Goa",
+      "data": {
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "model": [
+    {
+      "name": "ANUPAMA SETHY",
+      "party": "Aam Aadmi Party",
+      "state": "Orissa",
+      "constituency": "Jagatsinghpur",
+      "data": {
+      }
+    },
+    {
+      "name": "KULAMANI SAMAL",
+      "party": "Biju Janata Dal",
+      "state": "Orissa",
+      "constituency": "Jagatsinghpur",
+      "data": {
+      }
+    },
+    {
+      "name": "AJAY KUMAR BEHERA",
+      "party": "Communist Party of India",
+      "state": "Orissa",
+      "constituency": "Jagatsinghpur",
+      "data": {
+      }
+    },
+    {
+      "name": "MANAS KUMAR BEHERA",
+      "party": "Independent",
+      "state": "Orissa",
+      "constituency": "Jagatsinghpur",
+      "data": {
+      }
+    },
+    {
+      "name": "BIBHU PRASAD TARAI",
+      "party": "Indian National Congress",
+      "state": "Orissa",
+      "constituency": "Jagatsinghpur",
+      "data": {
+      }
+    },
+    {
+      "name": "BAIDHAR MALLICK",
+      "party": "Bharatiya Janata Party",
+      "state": "Orissa",
+      "constituency": "Jagatsinghpur",
+      "data": {
+      }
+    },
+    {
+      "name": "PRADIP KUMAR MALLICK",
+      "party": "Bahujan Samaj Party",
+      "state": "Orissa",
+      "constituency": "Jagatsinghpur",
+      "data": {
+      }
+    }
+  ]
+}

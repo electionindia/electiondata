@@ -1,0 +1,28 @@
+{
+  "model": [
+    {
+      "name": "ABC XYZ",
+      "party": "Bharatiya Janata Party",
+      "state": "West Bengal",
+      "constituency": "Tamluk",
+      "data": {
+      }
+    },
+    {
+      "name": "VCXA NNNN",
+      "party": "Independent",
+      "state": "West Bengal",
+      "constituency": "Tamluk",
+      "data": {
+      }
+    },
+    {
+      "name": "MMMMMMMM FFFF",
+      "party": "Communist Party of India",
+      "state": "West Bengal",
+      "constituency": "Tamluk",
+      "data": {
+      }
+    }
+  ]
+}

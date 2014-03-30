@@ -1,0 +1,332 @@
+{
+  "model": [
+    {
+      "name": "KULDEEP BISHNOI",
+      "party": "Haryana Janhit Congress (BL)",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "DUSHYANT CHAUTALA",
+      "party": "Indian National Lok Dal",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "PHUL SINGH",
+      "party": "Communist Party of India  (Marxist)",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "MANGE RAM",
+      "party": "Bahujan Samaj Party",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SAMPAT SINGH",
+      "party": "Indian National Congress",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "OM PARKASH",
+      "party": "Bharatiya Sant Mat Party",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KULDEEP SINGH S/O SHISHPAL",
+      "party": "Bahujan Mukti Party",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "MAMTA RANI",
+      "party": "Rashtrawadi Parivartan Party (L.B,)",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. YUDHBIR SINGH KHYALIA",
+      "party": "Aam Aadmi Party",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "ARUN KUMAR",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "ATAM PARKASH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "UMED SINGH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KARTAR SINGH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KULDEEP S/O ISHWAR SINGH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KULDEEP S/O KARAN SINGH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KULDEEP S/O NARAIN SINGH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KULDEEP S/O PARDUMN",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KULDEEP S/O MADAN LAL",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "KULDEEP S/O SAJJAN",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "NARINDER KUMAR",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "NARENDER",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "NARESH BATRA",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "BALJEET",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "BALWAN SINGH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "YUDHVIR",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "RAKESH KUMAR (RINKU BHAI)",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "RAJ KUMAR",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "RAJ SINGH",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. RAJESH MAHENDIA",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "RAM PHAL",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "VIKAS",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "VIJAY KUMAR SHARMA",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "VISHNU KUMAR",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SHIV KUMAR",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SHRAVAN KUMAR ASIJA",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SATBIR",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SITA RAM",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SUNDER",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SUSHIL KAUSHIK",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "SUSHIL NIDHI",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    },
+    {
+      "name": "HANSRAJ",
+      "party": "Independent",
+      "state": "Haryana",
+      "constituency": "Hisar",
+      "data": {
+      }
+    }
+  ]
+}

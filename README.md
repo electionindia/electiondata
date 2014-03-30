@@ -12,9 +12,13 @@ To build/update data run:
 
 ```./election_data.rb --scrape```
 
-To parse the information into json files,
+To parse the information into a temporary json file
 
 ```./election_data.rb --parse```
+
+To build usable json files
+
+```./election_data.rb --buildjson```
 
 Aims of this project:
 ============
@@ -27,7 +31,7 @@ Aims of this project:
 TODOs:
 ---
 * ~~Write scraper~~
-* Write parser
+* ~~Write parser~~
 * Build website to view information.
 
 Thanks

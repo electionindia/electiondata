@@ -1,0 +1,52 @@
+{
+  "model": [
+    {
+      "name": "PREM DAS RAI",
+      "party": "Sikkim Democratic Front",
+      "state": "Sikkim",
+      "constituency": "Sikkim",
+      "data": {
+      }
+    },
+    {
+      "name": "TEK NATH DHAKAL",
+      "party": "Sikkim Krantikari Morcha",
+      "state": "Sikkim",
+      "constituency": "Sikkim",
+      "data": {
+      }
+    },
+    {
+      "name": "NAR BAHADUR KHATIWARA",
+      "party": "Bharatiya Janata Party",
+      "state": "Sikkim",
+      "constituency": "Sikkim",
+      "data": {
+      }
+    },
+    {
+      "name": "AKAR DHOJ LIMBU",
+      "party": "Indian National Congress",
+      "state": "Sikkim",
+      "constituency": "Sikkim",
+      "data": {
+      }
+    },
+    {
+      "name": "NAKUL DAS RAI",
+      "party": "All India Trinamool Congress",
+      "state": "Sikkim",
+      "constituency": "Sikkim",
+      "data": {
+      }
+    },
+    {
+      "name": "KAUSHAL RAI",
+      "party": "Aam Aadmi Party",
+      "state": "Sikkim",
+      "constituency": "Sikkim",
+      "data": {
+      }
+    }
+  ]
+}

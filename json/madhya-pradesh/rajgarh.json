@@ -1,0 +1,52 @@
+{
+  "model": [
+    {
+      "name": "AMLABE NARAYAN SINGH",
+      "party": "Indian National Congress",
+      "state": "Madhya Pradesh",
+      "constituency": "RAJGARH",
+      "data": {
+      }
+    },
+    {
+      "name": "RODMAL NAGAR",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "RAJGARH",
+      "data": {
+      }
+    },
+    {
+      "name": "DR.SHIVNARAYAN VERMA",
+      "party": "Bahujan Samaj Party",
+      "state": "Madhya Pradesh",
+      "constituency": "RAJGARH",
+      "data": {
+      }
+    },
+    {
+      "name": "DR.PRASHANT TRIPATHI",
+      "party": "Aam Aadmi Party",
+      "state": "Madhya Pradesh",
+      "constituency": "RAJGARH",
+      "data": {
+      }
+    },
+    {
+      "name": "IMAMUDDIN KHAN",
+      "party": "Independent",
+      "state": "Madhya Pradesh",
+      "constituency": "RAJGARH",
+      "data": {
+      }
+    },
+    {
+      "name": "ROD JI",
+      "party": "Independent",
+      "state": "Madhya Pradesh",
+      "constituency": "RAJGARH",
+      "data": {
+      }
+    }
+  ]
+}

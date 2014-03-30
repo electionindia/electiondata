@@ -1,0 +1,28 @@
+{
+  "model": [
+    {
+      "name": "NINONG ERING",
+      "party": "Indian National Congress",
+      "state": "Arunachal Pradesh",
+      "constituency": "ARUNACHAL EAST",
+      "data": {
+      }
+    },
+    {
+      "name": "TAPIR GAO",
+      "party": "Bharatiya Janata Party",
+      "state": "Arunachal Pradesh",
+      "constituency": "ARUNACHAL EAST",
+      "data": {
+      }
+    },
+    {
+      "name": "WANGMAN LOWANGCHA",
+      "party": "People's Party of Arunachal",
+      "state": "Arunachal Pradesh",
+      "constituency": "ARUNACHAL EAST",
+      "data": {
+      }
+    }
+  ]
+}

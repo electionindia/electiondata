@@ -1,0 +1,52 @@
+{
+  "model": [
+    {
+      "name": "ANUP PHUKON",
+      "party": "Asom Gana Parishad",
+      "state": "Assam",
+      "constituency": "Dibrugarh",
+      "data": {
+      }
+    },
+    {
+      "name": "PABAN SINGH GHATOWAR",
+      "party": "Indian National Congress",
+      "state": "Assam",
+      "constituency": "Dibrugarh",
+      "data": {
+      }
+    },
+    {
+      "name": "RAMESWAR TELI",
+      "party": "Bharatiya Janata Party",
+      "state": "Assam",
+      "constituency": "Dibrugarh",
+      "data": {
+      }
+    },
+    {
+      "name": "CHENI RAM MORAN",
+      "party": "All India Forward Bloc",
+      "state": "Assam",
+      "constituency": "Dibrugarh",
+      "data": {
+      }
+    },
+    {
+      "name": "NAVAJYOTI KALITA",
+      "party": "All India Trinamool Congress",
+      "state": "Assam",
+      "constituency": "Dibrugarh",
+      "data": {
+      }
+    },
+    {
+      "name": "SUBHAS SEN",
+      "party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
+      "state": "Assam",
+      "constituency": "Dibrugarh",
+      "data": {
+      }
+    }
+  ]
+}

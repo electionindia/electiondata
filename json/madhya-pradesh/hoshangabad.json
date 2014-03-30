@@ -1,0 +1,68 @@
+{
+  "model": [
+    {
+      "name": "UDAY PRATAP SINGH",
+      "party": "Bharatiya Janata Party",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    },
+    {
+      "name": "DEVENDRA PATEL \"GUDDU BHAIYA\"",
+      "party": "Indian National Congress",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    },
+    {
+      "name": "PRADEEP AHIRWAR",
+      "party": "Bahujan Samaj Party",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    },
+    {
+      "name": "JAY PRAKASH PATEL",
+      "party": "Gondvana Gantantra Party",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    },
+    {
+      "name": "MAYA VISHWAKARMA",
+      "party": "Aam Aadmi Party",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    },
+    {
+      "name": "UDAY PRATAP  SINGH",
+      "party": "Independent",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    },
+    {
+      "name": "DEVENDRA KUMAR URF GUDDA BHAIYYA",
+      "party": "Independent",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    },
+    {
+      "name": "MUKESH BABU AHIRWAR",
+      "party": "Independent",
+      "state": "Madhya Pradesh",
+      "constituency": "HOSHANGABAD",
+      "data": {
+      }
+    }
+  ]
+}

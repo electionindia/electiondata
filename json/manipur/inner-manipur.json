@@ -1,0 +1,68 @@
+{
+  "model": [
+    {
+      "name": "DR. THOKCHOM MEINYA",
+      "party": "Indian National Congress",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    },
+    {
+      "name": "MOIRANGTHEM NARA",
+      "party": "Communist Party of India",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    },
+    {
+      "name": "RAJKUMAR RANJAN SINGH",
+      "party": "Bharatiya Janata Party",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    },
+    {
+      "name": "SARANGTHEM MANAOBI",
+      "party": "All India Trinamool Congress",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. IBOMCHA SINGH",
+      "party": "Aam Aadmi Party",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    },
+    {
+      "name": "OINAM JOTIN SINGH",
+      "party": "Jai Maha Bharath Party",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    },
+    {
+      "name": "DR. GURUMAYUM TONSANA SHARMA",
+      "party": "Manipur Democratic Peoples's Front",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    },
+    {
+      "name": "INDIRA OINAM",
+      "party": "Independent",
+      "state": "Manipur",
+      "constituency": "Inner manipur",
+      "data": {
+      }
+    }
+  ]
+}

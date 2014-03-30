@@ -1,0 +1,44 @@
+{
+  "model": [
+    {
+      "name": "JOY RAM ENGLENG",
+      "party": "Bharatiya Janata Party",
+      "state": "Assam",
+      "constituency": "Autonomous District",
+      "data": {
+      }
+    },
+    {
+      "name": "BIREN SINGH ENGTI",
+      "party": "Indian National Congress",
+      "state": "Assam",
+      "constituency": "Autonomous District",
+      "data": {
+      }
+    },
+    {
+      "name": "ASHWENG J. RENGMA",
+      "party": "Jharkhand Mukti Morcha",
+      "state": "Assam",
+      "constituency": "Autonomous District",
+      "data": {
+      }
+    },
+    {
+      "name": "PRATIMA ENGHEEPI",
+      "party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
+      "state": "Assam",
+      "constituency": "Autonomous District",
+      "data": {
+      }
+    },
+    {
+      "name": "CHOMANG KRO",
+      "party": "Independent",
+      "state": "Assam",
+      "constituency": "Autonomous District",
+      "data": {
+      }
+    }
+  ]
+}

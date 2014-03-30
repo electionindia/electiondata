@@ -6,11 +6,10 @@ require 'optparse'
 OptionParser.new do |o|
   o.on('--scrape') { |b| $scrape = b }
   o.on('--parse') {|b| $parse = b}
+  o.on('--buildjson') {|b| $buildjson = b}
   o.on('-h') { puts o; exit }
   o.parse!
 end
-
-$global_parties = {}
 
 def parse_file f
   state_line = `cat #{f} | grep 'STATE NAME'`
@@ -42,8 +41,6 @@ def parse_file f
         data: {}
       }
       candidates.push info
-      $global_parties[tds[3]] ||= []
-      $global_parties[tds[3]].push info
     }
   end
 
@@ -96,16 +93,58 @@ if $parse
     exit
   end
   puts "----Parsing----"
+  parsed_info = []
   data.each {|f|
     r = parse_file f
     if !r
       puts "  X Unable to parse #{f}"
     else
       puts "  > #{r[:state]}, #{r[:constituency]}"
-      File.open("#{f}.json", "w+") {|j| j.write r.to_json.to_s}
+      parsed_info.push r
     end
   }
-  File.open("party_candidates.json", "w+") {|j| j.write JSON.pretty_generate($global_parties)}
+
+  File.open("parsed_info.json", "w+"){|f|
+    f.write parsed_info.to_json.to_s
+  }
+end
+
+if $buildjson
+  puts "----Building json----"
+  File.open("parsed_info.json", "r"){|f|
+    parsed_info = JSON.parse(f.read)
+  }
+
+  constituencies = {}
+  cons_candidates = {}
+
+  parsed_info.each{ |p|
+    constituencies[p["state"]] ||= []
+    constituencies[p["state"]].push p["constituency"]
+
+    cons_candidates[p["constituency"]] = {candidates:p["candidates"], state: p["state"]}
+
+  }
+  constituencies.each{|k,v|
+    v = v.uniq!
+  }
+  puts "  > json/constituency.json -- state/constituency list"
+  File.open("json/constituency.json", "w+"){|f|
+    f.write JSON.pretty_generate(models:constituencies.map{|k,v| {k=>v}})
+  }
+
+  cons_candidates.each{|cons, info|
+    lower_state = info[:state].downcase.gsub(/\s+/,"-").gsub(/[^a-z-]/,"")
+    lower_cons = cons.downcase.gsub(/\s+/,"-").gsub(/[^a-z-]/,"")
+    `mkdir -p json/#{lower_state}`
+    puts "  > json/#{lower_state}/#{lower_cons}.json"
+    File.open("json/#{lower_state}/#{lower_cons}.json", "w+"){|f|
+      f.write JSON.pretty_generate(model: info[:candidates])
+    }
+
+  }
+
+
 end
 
 
