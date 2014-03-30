@@ -16,11 +16,19 @@ $("document").ready =>
     el: "#main-view"
     template: "#template-main-view"
     render: ->
-      h = _.template $(template)
+      h = _.template $(@template).html()
       @$el.html h
       @
 
-  app.router = Backbone.Router.extend
+  app.CandidatesView = Backbone.View.extend
+    el: "#main-view"
+    template: "#template-candidates"
+    render: ->
+      h = _.template $(@template).html()
+      @$el.html h
+      @
+
+  app.Router = Backbone.Router.extend
     routes:
       ""   : "default"
       ":state/:constituency" : "viewCandidates"
@@ -29,7 +37,17 @@ $("document").ready =>
       return
 
     default: ->
+      defview = new app.HomeView()
+      defview.render()
+      $(".headersearch").hide()
       return
 
     viewCandidates: ->
+      canview = new app.CandidatesView()
+      canview.render()
+      $(".headersearch").show()
       return
+
+  app.router = new app.Router()
+  app.StatesCollection = new app.StatesCollection()
+  Backbone.history.start({pushState: false, root: window.location.pathname})

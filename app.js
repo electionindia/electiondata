@@ -21,19 +21,45 @@
       template: "#template-main-view",
       render: function() {
         var h;
-        h = _.template($(template));
+        h = _.template($(this.template).html());
         this.$el.html(h);
         return this;
       }
     });
-    return app.router = Backbone.Router.extend({
+    app.CandidatesView = Backbone.View.extend({
+      el: "#main-view",
+      template: "#template-candidates",
+      render: function() {
+        var h;
+        h = _.template($(this.template).html());
+        this.$el.html(h);
+        return this;
+      }
+    });
+    app.Router = Backbone.Router.extend({
       routes: {
         "": "default",
         ":state/:constituency": "viewCandidates"
       },
       initialize: function() {},
-      "default": function() {},
-      viewCandidates: function() {}
+      "default": function() {
+        var defview;
+        defview = new app.HomeView();
+        defview.render();
+        $(".headersearch").hide();
+      },
+      viewCandidates: function() {
+        var canview;
+        canview = new app.CandidatesView();
+        canview.render();
+        $(".headersearch").show();
+      }
+    });
+    app.router = new app.Router();
+    app.StatesCollection = new app.StatesCollection();
+    return Backbone.history.start({
+      pushState: false,
+      root: window.location.pathname
     });
   });
 
