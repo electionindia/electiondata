@@ -1,0 +1,116 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Untitled Page
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <style type="text/css">
+        .style1
+        {
+            width: 409px;
+        }
+        .style2
+        {
+            text-align: left;
+        }
+    </style>
+</head>
+<body style="background-color:#C7DDF7" >
+    <form name="aspnetForm" method="post" action="CANDIDATEAFFIDAVIT.aspx?YEARID=May-2014+(+GEN+)&amp;AC_No=6&amp;st_code=S09&amp;constType=PC" id="aspnetForm" style="margin-top:-15px;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2NTMxNTU2Mg9kFgJmD2QWAgIDD2QWAgIDD2QWCAIBDw8WAh4EVGV4dAUfU1RBVEUgTkFNRTogUzA5LUphbW11ICYgS2FzaG1pcmRkAgMPDxYCHwAFEFBDIE5BTUU6IDYtSmFtbXVkZAIJDw8WAh8AZWRkAg0PDxYCHwAFMENsaWNrIG9uIENhbmRpZGF0ZSBOYW1lIHRvIGdldCBoaXMvaGVyIGFmZmlkYXZpdGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBSljdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGNoa3JlamVjdGVkQ2FuZAUnY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRDaGtDb3VudGVyQWZmsdfEYa+x6TNDGqHy4hQDJ+AW1zo=" />
+
+    
+         <img id="ctl00_Image1" src="Images/eci_01.jpg" align="top" width="100%" border="0" />
+    
+ <div>
+       
+        
+<div id="CandidateAffidavit">
+<div style="text-align:center; vertical-align:middle">
+<table  style="border-color:Maroon;vertical-align:middle; margin-left: auto;  margin-right: auto;
+  text-align:center" border="0">
+  <tr>
+  <td>
+      <span id="ctl00_ContentPlaceHolder1_lblState"><b>STATE NAME: S09-Jammu & Kashmir</b></span></td>
+  <td>
+      <span id="ctl00_ContentPlaceHolder1_lblConst"><b>PC NAME: 6-Jammu</b></span></td>
+  </tr>
+  <tr>
+  <td class="style2" colspan="2">
+Note: Downloaded file is in ZIP format.</td>
+  </tr>
+<tr>
+<td style="border: thin solid #800000" align="left" class="style1"> 
+    <span><b><font color="Maroon"><input id="ctl00_ContentPlaceHolder1_chkrejectedCand" type="checkbox" name="ctl00$ContentPlaceHolder1$chkrejectedCand" /><label for="ctl00_ContentPlaceHolder1_chkrejectedCand">Checked For Rejected/Withdrawn Candidates.</label></font></b></span>
+    </td>
+    <td style="border: thin solid #800000" align="left" class="style1"> 
+    <span><b><font color="Maroon"><input id="ctl00_ContentPlaceHolder1_ChkCounterAff" type="checkbox" name="ctl00$ContentPlaceHolder1$ChkCounterAff" /><label for="ctl00_ContentPlaceHolder1_ChkCounterAff">Checked For Counter Affidavit.</label></font></b></span>
+    </td>
+</tr>
+<tr>
+<td style="border: thin solid #800000"  align="left" class="style1" colspan="2"> 
+    <span id="ctl00_ContentPlaceHolder1_lblMsg"><b><font color="#006600"></font></b></span>
+    </td>
+</tr>
+</table>
+</div>
+
+<div style="text-align:center; vertical-align:middle">
+  
+            <p>
+            <table cellspacing="0" align="Center" rules="all" border="1" id="ctl00_ContentPlaceHolder1_uigrdAffidavit" width="50%">
+	<tr align="center" bgcolor="Chocolate">
+		<td><b>SL_NO.</b></td><td><b>CANDIDATE NAME</b></td><td><b>PARTY NAME</b></td>
+	</tr><tr align="left">
+		<td>1</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl02$ctl00','')">ASHOK KUMAR</a></td><td>Bahujan Samaj Party</td>
+	</tr><tr align="left">
+		<td>2</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl03$ctl00','')">JUGAL KISHORE</a></td><td>Bharatiya Janata Party</td>
+	</tr><tr align="left">
+		<td>3</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl04$ctl00','')">MADAN LAL SHARMA</a></td><td>Indian National Congress</td>
+	</tr><tr align="left">
+		<td>4</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl05$ctl00','')">HARI CHAND JALMERIA</a></td><td>Jammu & Kashmir National Panthers Party</td>
+	</tr><tr align="left">
+		<td>5</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl06$ctl00','')">YASHPAL SHARMA</a></td><td>Jammu & Kashmir Peoples Democratic Party</td>
+	</tr><tr align="left">
+		<td>6</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl07$ctl00','')">BAHADUR SINGH CHOWDHARY</a></td><td>Samajwadi Party</td>
+	</tr><tr align="left">
+		<td>7</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl08$ctl00','')">SUBASH CHANDER</a></td><td>All J & K Kisan Majdoor Party</td>
+	</tr><tr align="left">
+		<td>8</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl09$ctl00','')">GURSAGAR SINGH</a></td><td>Socialistic Democratic Party</td>
+	</tr><tr align="left">
+		<td>9</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl10$ctl00','')">MEHAR MANAV BHAGAT</a></td><td>Bharatiya Bahujan Party</td>
+	</tr><tr align="left">
+		<td>10</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl11$ctl00','')">ASHOK KUMAR SHARMA</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>11</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl12$ctl00','')">PERSEEN SINGH</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>12</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl13$ctl00','')">RAJ KUMAR</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>13</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl14$ctl00','')">SATISH POONCHI</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>14</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl15$ctl00','')">ABDUL MAJID CHOUHAN</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>15</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl16$ctl00','')">LABHA RAM</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>16</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl17$ctl00','')">MOHD. IMTIAZ</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>17</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl18$ctl00','')">MOHD. ABBAS KHAN</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>18</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl19$ctl00','')">NIRMAL SINGH</a></td><td>Independent</td>
+	</tr><tr align="left">
+		<td>19</td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$uigrdAffidavit$ctl20$ctl00','')">VIJAY KUMAR</a></td><td>Independent</td>
+	</tr>
+</table>
+					</P>
+</div>
+<div style="text-align:center; vertical-align:middle">
+ <span id="ctl00_ContentPlaceHolder1_lblAffMsg"><b><font color="#006600">Click on Candidate Name to get his/her affidavit</font></b></span>
+</div>
+</div>
+
+    </div>
+    </form>
+</body>
+</html>
