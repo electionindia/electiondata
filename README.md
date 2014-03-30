@@ -4,6 +4,10 @@ Lok sabha 2014 election data
 Lok Sabha 2014 election and constituency data scraped from:
 http://affidavitarchive.nic.in/
 
+To install dependencies run:
+
+```sudo apt-get install ruby ruby-cmdparse```
+
 To build/update data run:
 
 ```./election_data.rb --scrape```
