@@ -13,3 +13,8 @@ TODO:
 * ~~Build basic site~~
 * Add search and view functionality.
 * Integrate crowdsourcing and participation.
+
+Thanks:
+---
+Images from flickr
+* bg01.jpg: https://www.flickr.com/photos/honzasoukup/3098178159
